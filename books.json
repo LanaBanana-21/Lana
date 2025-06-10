@@ -34,7 +34,7 @@
     "description": " the story of four ordinary children: Peter, Susan, Edmund, and Lucy Pevensie, Londoners who were evacuated to the English countryside following the outbreak of World War II. ",
     "rating": 3.9,
     "cover": "images/narnia.jpg"
-  }
+  },
   {
     "id": "book-005",
     "title": "Twenty Thousand Leagues Under the Sea",
@@ -43,7 +43,7 @@
     "description": "Twenty Thousand Leagues Under the Seas is a science fiction adventure novel by the French writer Jules Verne. It is considered a classic within its genres ...",
     "rating": 4.4,
     "cover": "images/underthesea.jpg"
-  }
+  },
   {
     "id": "book-006",
     "title": "Harry Potter and the Philosopher's Stone",
