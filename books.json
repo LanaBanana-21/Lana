@@ -21,7 +21,7 @@
     "id": "book-003",
     "title": "Isadora Moon Has a Birthday",
     "author": "Harriet Muncaster",
-    "genre": "Fantasy Fiction",
+    "genre": "Fantasy",
     "description": "Half vampire, half fairy, totally unique! Isadora Moon is special because she is different. Her mum is a fairy and her dad is a vampire and Isadora is a bit of both.",
     "rating": 4.1,
     "cover": "images/isadora.jpg"
@@ -30,7 +30,7 @@
     "id": "book-004",
     "title": "The Lion, the Witch and the Wardrobe",
     "author": "C. S. Lewis",
-    "genre": "Fantasy Fiction",
+    "genre": "Fantasy",
     "description": " the story of four ordinary children: Peter, Susan, Edmund, and Lucy Pevensie, Londoners who were evacuated to the English countryside following the outbreak of World War II. ",
     "rating": 3.9,
     "cover": "images/narnia.jpg"
