@@ -1,0 +1,56 @@
+[
+  {
+    "id": "book-001",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "description": "A fantasy adventure about Bilbo Baggins’ journey.",
+    "rating": 4.5,
+    "cover": "images/hobbit.jpg"
+  },
+  {
+    "id": "book-002",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Sci-Fi",
+    "description": "An epic science fiction novel set in a desert world.",
+    "rating": 4.9,
+    "cover": "images/dune.jpg"
+  },
+  {
+    "id": "book-003",
+    "title": "Isadora Moon Has a Birthday",
+    "author": "Harriet Muncaster",
+    "genre": "Fantasy Fiction",
+    "description": "Half vampire, half fairy, totally unique! Isadora Moon is special because she is different. Her mum is a fairy and her dad is a vampire and Isadora is a bit of both.",
+    "rating": 4.1,
+    "cover": "images/isadora.jpg"
+  },
+  {
+    "id": "book-004",
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C. S. Lewis",
+    "genre": "Fantasy Fiction",
+    "description": " the story of four ordinary children: Peter, Susan, Edmund, and Lucy Pevensie, Londoners who were evacuated to the English countryside following the outbreak of World War II. ",
+    "rating": 3.9,
+    "cover": "images/narnia.jpg"
+  }
+  {
+    "id": "book-005",
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "genre": "Sci-Fi",
+    "description": "Twenty Thousand Leagues Under the Seas is a science fiction adventure novel by the French writer Jules Verne. It is considered a classic within its genres ...",
+    "rating": 4.4,
+    "cover": "images/underthesea.jpg"
+  }
+  {
+    "id": "book-006",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "genre": "Sci-Fi",
+    "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. ",
+    "rating": 5.0,
+    "cover": "images/harrypotter.jpg"
+  }
+]
